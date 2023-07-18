@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DuAn1.iml" filepath="$PROJECT_DIR$/DuAn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libraries/Libraries.iml" filepath="$PROJECT_DIR$/Libraries/Libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libraries/jfreechart-1.0.1/jfreechart-1.0.1.iml" filepath="$PROJECT_DIR$/Libraries/jfreechart-1.0.1/jfreechart-1.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libraries/poi_chaytot/poi_chaytot.iml" filepath="$PROJECT_DIR$/Libraries/poi_chaytot/poi_chaytot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libraries/sqljdbc_10.2.1.0_enu/sqljdbc_10.2.1.0_enu.iml" filepath="$PROJECT_DIR$/Libraries/sqljdbc_10.2.1.0_enu/sqljdbc_10.2.1.0_enu.iml" />
+    </modules>
+  </component>
+</project>

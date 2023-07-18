@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="enu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libraries/sqljdbc_10.2.1.0_enu/sqljdbc_10.2/enu/mssql-jdbc-10.2.1.jre11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/sqljdbc_10.2.1.0_enu/sqljdbc_10.2/enu/mssql-jdbc-10.2.1.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libraries/sqljdbc_10.2.1.0_enu/sqljdbc_10.2/enu/mssql-jdbc-10.2.1.jre17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
